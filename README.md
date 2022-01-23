@@ -79,14 +79,14 @@
 <br/>
 
 <p align="center">
-  <img height="120"
+  <img height="100"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-tamim&show_icons=true&locale=en&layout=compact"
         alt="sr-tamim" />
   &nbsp;
-  <img height="120"
+  <img height="100"
         src="https://github-readme-stats.vercel.app/api?username=sr-tamim&show_icons=true&locale=en" alt="sr-tamim" />
   &nbsp;
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
+  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
         alt="sr-tamim" />
 </p>
 
