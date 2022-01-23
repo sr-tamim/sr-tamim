@@ -5,7 +5,7 @@
 
 
 <h1 align="center">This is Saifur Rahman Tamim</h1>
-<h3 align="center">Web Developer lived in Dhaka, Bangladesh</h3>
+<h3 align="center">Web Developer from Dhaka, Bangladesh</h3>
 <br/>
 
 <p align="center">🌱 I’m currently exploring the multiverse of <b>JavaScript</b></p>
