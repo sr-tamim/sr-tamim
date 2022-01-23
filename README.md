@@ -4,6 +4,11 @@
        src="https://github-profile-trophy.vercel.app/?username=sr-tamim&margin-w=30&title=Repositories,Commits,Followers&column=3" alt="sr-tamim" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/sr-tamim/sr-tamim/blob/main/files/github-readme-cover.gif?raw=true"/>
+</p>
+
+
 <h1 align="center">This is Saifur Rahman Tamim</h1>
 <h3 align="center">Web Developer | Exploring the multiverse of JavaScript</h3>
 <br/>
