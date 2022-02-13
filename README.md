@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://github.com/sr-tamim/sr-tamim/blob/main/files/github-readme-cover.gif?raw=true"/>
 </p>
-
 
 <h1 align="center">This is Saifur Rahman Tamim</h1>
 <h3 align="center">Web Developer from Dhaka, Bangladesh</h3>
@@ -20,8 +18,7 @@
 </p>
 <br/>
 
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   &nbsp;
@@ -77,7 +74,7 @@
         alt="sr-tamim" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="https://twitter.com/sr__tamim" target="_blank" title="Visit my twitter profile">
         <img
