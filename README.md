@@ -96,7 +96,7 @@
             src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/7e6f4c303d087c762ac018702e6999febe79bc96/files/messenger.svg"
             alt="messenger icon" height="30" width="40" />
     </a>&nbsp;
-  <a href="http://t.me/tamim0o" target="_blank" title="Message me on Telegram">
+  <a href="http://t.me/sr_tamim" target="_blank" title="Message me on Telegram">
     <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/0b93638358dab42316a9f69c715500dce852b770/files/telegram.svg" alt="telegram" height="30" width="30"/>
   </a>
 </p>
