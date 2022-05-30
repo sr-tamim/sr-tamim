@@ -11,7 +11,7 @@
   🖥️ Some of my extraordinary projects are available <a href="https://sr-tamim.vercel.app/projects" target="_blank">here</a>
 </p>
 <p align="center">
- 📱 Contact me through <a href="mailto:saifur.rohman.tamim@gmail.com" target="_blank">saifur.rohman.tamim@gmail.com</a>
+ 📱 Contact me through <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
 </p>
 <p align="center">
   🌐 Visit my personal portfolio <a href="https://sr-tamim.vercel.app" target="_blank">website</a> to get a quick overview about me
