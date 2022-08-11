@@ -11,50 +11,12 @@
   🖥️ Some of my extraordinary projects are available <a href="https://sr-tamim.vercel.app/projects" target="_blank">here</a>
 </p>
 <p align="center">
- 📱 Contact me through <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
-</p>
-<p align="center">
   🌐 Visit my personal portfolio <a href="https://sr-tamim.vercel.app" target="_blank">website</a> to get a quick overview about me
 </p>
-<br/>
-
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  &nbsp;
-  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  &nbsp;
-  <img title="JavaScript"
-       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/javascript.svg" alt="javascript" width="40" height="40" />
-  &nbsp;
-  <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/reactjs.svg" alt="react" width="40" height="40" />
-  &nbsp;
-  <img title="Tailwind CSS3" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/tailwind.svg" alt="tailwind" width="40" height="40" />
-  &nbsp;
-  <img title="Material UI" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/materialui.svg" alt="material ui" width="40" height="40" />
-  &nbsp;
-  <img title="Bootstrap"
-       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/bootstrap.svg" alt="bootstrap" width="40" height="40" />
-  &nbsp;
-  <img title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  &nbsp;
-  <img title="TypeScript" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/typescript.svg" alt="typescript" width="40" height="40" />
-  &nbsp;
-  <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/c450d4a4e1d62422ee9e13612d8ffcec714ba0ea/files/nodejs.svg" alt="nodejs" width="40" height="40" />
-  &nbsp;
-  <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/mongodb.svg" alt="mongodb" width="40" height="40" />
-  &nbsp;
-  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  &nbsp;
-  <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  &nbsp;
-  <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  &nbsp;
-  <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-  &nbsp;
-  <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+ 📱 Contact me through <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
 </p>
-<br/><br/>
+<br/>
 
 <p align="center">
   <img
@@ -99,4 +61,42 @@
   <a href="http://t.me/sr_tamim" target="_blank" title="Message me on Telegram">
     <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/0b93638358dab42316a9f69c715500dce852b770/files/telegram.svg" alt="telegram" height="30" width="30"/>
   </a>
+</p>
+<br/>
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  &nbsp;
+  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  &nbsp;
+  <img title="JavaScript"
+       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/javascript.svg" alt="javascript" width="40" height="40" />
+  &nbsp;
+  <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/reactjs.svg" alt="react" width="40" height="40" />
+  &nbsp;
+  <img title="Tailwind CSS3" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/tailwind.svg" alt="tailwind" width="40" height="40" />
+  &nbsp;
+  <img title="Material UI" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/materialui.svg" alt="material ui" width="40" height="40" />
+  &nbsp;
+  <img title="Bootstrap"
+       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/bootstrap.svg" alt="bootstrap" width="40" height="40" />
+  &nbsp;
+  <img title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  <br/>
+  <img title="TypeScript" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/typescript.svg" alt="typescript" width="40" height="40" />
+  &nbsp;
+  <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/c450d4a4e1d62422ee9e13612d8ffcec714ba0ea/files/nodejs.svg" alt="nodejs" width="40" height="40" />
+  &nbsp;
+  <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/mongodb.svg" alt="mongodb" width="40" height="40" />
+  &nbsp;
+  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+  &nbsp;
+  <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  &nbsp;
+  <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  &nbsp;
+  <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+  &nbsp;
+  <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
 </p>
