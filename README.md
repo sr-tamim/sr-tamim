@@ -40,26 +40,26 @@
 <p align="center">
     <a href="https://twitter.com/sr__tamim" target="_blank" title="Visit my twitter profile">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/2df53d86ebed0c59f1fd7b76742ef5ca30c8b649/files/twitter.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/twitter.svg"
             alt="sr__tamim" height="30" width="30" />
     </a>&nbsp;
     <a href="https://facebook.com/srtamim21" target="_blank" title="View my Facebook profile">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/7e6f4c303d087c762ac018702e6999febe79bc96/files/facebook.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/facebook.svg"
             alt="srtamim21" height="30" width="30" />
     </a>&nbsp;
     <a href="https://linkedin.com/in/srtamim" target="_blank" title="Connect with me in LinkedIn">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/2df53d86ebed0c59f1fd7b76742ef5ca30c8b649/files/linkedin.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/linkedin.svg"
             alt="srtamim" height="30" width="30" />
     </a>&nbsp;
     <a href="https://m.me/srtamim21" target="_blank" title="Contact me through messenger">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/7e6f4c303d087c762ac018702e6999febe79bc96/files/messenger.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/messenger.svg"
             alt="messenger icon" height="30" width="40" />
     </a>&nbsp;
   <a href="http://t.me/sr_tamim" target="_blank" title="Message me on Telegram">
-    <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/0b93638358dab42316a9f69c715500dce852b770/files/telegram.svg" alt="telegram" height="30" width="30"/>
+    <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/telegram.svg" alt="telegram" height="30" width="30"/>
   </a>
 </p>
 <br/>
@@ -71,24 +71,24 @@
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   &nbsp;
   <img title="JavaScript"
-       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/javascript.svg" alt="javascript" width="40" height="40" />
+       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/javascript.svg" alt="javascript" width="40" height="40" />
   &nbsp;
-  <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/reactjs.svg" alt="react" width="40" height="40" />
+  <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/reactjs.svg" alt="react" width="40" height="40" />
   &nbsp;
-  <img title="Tailwind CSS3" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/tailwind.svg" alt="tailwind" width="40" height="40" />
+  <img title="Tailwind CSS3" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/tailwind.svg" alt="tailwind" width="40" height="40" />
   &nbsp;
-  <img title="Material UI" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/materialui.svg" alt="material ui" width="40" height="40" />
+  <img title="Material UI" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/materialui.svg" alt="material ui" width="40" height="40" />
   &nbsp;
   <img title="Bootstrap"
-       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/bootstrap.svg" alt="bootstrap" width="40" height="40" />
+       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/bootstrap.svg" alt="bootstrap" width="40" height="40" />
   &nbsp;
   <img title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   <br/>
-  <img title="TypeScript" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/typescript.svg" alt="typescript" width="40" height="40" />
+  <img title="TypeScript" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/typescript.svg" alt="typescript" width="40" height="40" />
   &nbsp;
-  <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/c450d4a4e1d62422ee9e13612d8ffcec714ba0ea/files/nodejs.svg" alt="nodejs" width="40" height="40" />
+  <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/nodejs.svg" alt="nodejs" width="40" height="40" />
   &nbsp;
-  <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/9f74ebc30a8d457d2ca68779d4a21e8ab7139395/files/mongodb.svg" alt="mongodb" width="40" height="40" />
+  <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/mongodb.svg" alt="mongodb" width="40" height="40" />
   &nbsp;
   <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   &nbsp;
