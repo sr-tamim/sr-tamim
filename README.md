@@ -14,28 +14,9 @@
   🌐 Visit my personal portfolio <a href="https://sr-tamim.vercel.app" target="_blank">website</a> to get a quick overview about me
 </p>
 <p align="center">
- 📱 Contact me through <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
+ 📧 Send me a mail from <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
 </p>
 <br/>
-
-<p align="center">
-  <img
-       src="https://github-profile-trophy.vercel.app/?username=sr-tamim&margin-w=30&title=Repositories,Commits,Followers&column=3" alt="sr-tamim" />
-</p>
-<br/>
-
-<p align="center">
-  <img height="100"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-tamim&show_icons=true&locale=en&layout=compact"
-        alt="sr-tamim" />
-  &nbsp;
-  <img height="100"
-        src="https://github-readme-stats.vercel.app/api?username=sr-tamim&show_icons=true&locale=en" alt="sr-tamim" />
-  &nbsp;
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
-        alt="sr-tamim" />
-</p>
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="https://twitter.com/sr__tamim" target="_blank" title="Visit my twitter profile">
@@ -62,7 +43,6 @@
     <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/telegram.svg" alt="telegram" height="30" width="30"/>
   </a>
 </p>
-<br/>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -99,4 +79,17 @@
   <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   &nbsp;
   <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+</p>
+<br/>
+
+<p align="center">
+  <img height="100"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-tamim&show_icons=true&locale=en&layout=compact"
+        alt="sr-tamim" />
+  &nbsp;
+  <img height="100"
+        src="https://github-readme-stats.vercel.app/api?username=sr-tamim&show_icons=true&locale=en" alt="sr-tamim" />
+  &nbsp;
+  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
+        alt="sr-tamim" />
 </p>
