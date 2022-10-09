@@ -26,12 +26,12 @@
     </a>&nbsp;
     <a href="https://facebook.com/srtamim21" target="_blank" title="View my Facebook profile">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/facebook.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/facebook.png"
             alt="srtamim21" height="30" width="30" />
     </a>&nbsp;
     <a href="https://linkedin.com/in/srtamim" target="_blank" title="Connect with me in LinkedIn">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/linkedin.svg"
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/linkedin.png"
             alt="srtamim" height="30" width="30" />
     </a>&nbsp;
     <a href="https://m.me/srtamim21" target="_blank" title="Contact me through messenger">
