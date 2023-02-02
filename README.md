@@ -64,13 +64,15 @@
   </li>
 </ul>
 <br/>
-<h3>
+<h4>
   🖥️ <a href="https://sr-tamim.vercel.app/projects" target="_blank">View some of my works</a>
-~
+</h4>
+<h4>
   🌐 <a href="https://sr-tamim.vercel.app" target="_blank">Visit my personal portfolio website</a>
-~
+</h4>
+<h4>
   📧 <a href="https://sr-tamim.vercel.app/contact" target="_blank">Send me a mail</a>
-</h3>
+</h4>
 <br/>
 
 <h3>Connect with me</h3>
