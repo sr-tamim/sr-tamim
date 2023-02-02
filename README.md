@@ -3,19 +3,7 @@
 </p>
 
 <h1 align="center">This is Saifur Rahman Tamim</h1>
-<h3 align="center">Web Developer from Dhaka, Bangladesh</h3>
-<br/>
-
-<p align="center">🌱 I’m currently exploring the multiverse of <b>JavaScript</b></p>
-<p align="center">
-  🖥️ Some of my extraordinary projects are available <a href="https://sr-tamim.vercel.app/projects" target="_blank">here</a>
-</p>
-<p align="center">
-  🌐 Visit my personal portfolio <a href="https://sr-tamim.vercel.app" target="_blank">website</a> to get a quick overview about me
-</p>
-<p align="center">
- 📧 Send me a mail from <a href="https://sr-tamim.vercel.app/contact" target="_blank">here</a>
-</p>
+<h3 align="center">Exploring the universe of C# (Blazor)</h3>
 <br/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -44,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools I use</h3>
 <p align="center">
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   &nbsp;
@@ -92,4 +80,12 @@
   &nbsp;
   <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
         alt="sr-tamim" />
+</p>
+<br/>
+<p align="center">
+  🖥️ <a href="https://sr-tamim.vercel.app/projects" target="_blank">View some of my works</a>
+~
+  🌐 <a href="https://sr-tamim.vercel.app" target="_blank">Visit my personal portfolio website</a>
+~
+  📧 <a href="https://sr-tamim.vercel.app/contact" target="_blank">Send me a mail</a>
 </p>
