@@ -6,28 +6,34 @@
 <h3>Exploring the universe of C# (Blazor)</h3>
 <br/>
 
-<h3>Languages and Tools I use</h3>
+<h3>I am specialist in:</h3>
 <ul>
-  <li>
-    HTML
-    <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
-  </li>
-  <li>
-    CSS
-    <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
-  </li>
   <li>
     JavaScript
     <img title="JavaScript"
       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/javascript.svg" alt="javascript" width="20" height="20" />
   </li>
   <li>
-  Typescript
+    React.js
+    <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/reactjs.svg" alt="react" width="20" height="20" />
+  </li>
+  <li>Next.js</li>
+  <li>
+    Typescript
     <img title="TypeScript" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/typescript.svg" alt="typescript" width="20" height="20" />
   </li>
   <li>
-    React.js
-    <img title="React.js" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/reactjs.svg" alt="react" width="20" height="20" />
+    CSS
+    <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
+  </li>
+</ul>
+
+<br/>
+<h3>Languages & Technologies I'm familiar with:</h3>
+<ul>
+  <li>
+    HTML
+    <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
   </li>
   <li>
     Tailwind CSS
@@ -43,6 +49,11 @@
       src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/bootstrap.svg" alt="bootstrap" width="20" height="20" />
   </li>
   <li>
+    Firebase
+    <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20" />
+    (Auth, Storage, FirestoreDB)
+  </li>
+  <li>
     Git
     <img title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" />
   </li>
@@ -55,17 +66,16 @@
     <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/mongodb.svg" alt="mongodb" width="20" height="20" />
   </li>
   <li>
-    Firebase
-    <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20" />
-  </li>
-  <li>
     Linux
     <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20" />
+    (Manjaro, Fedora, Ubuntu, Fedora Server)
   </li>
+  <li>Blazor</li>
+  <li>MySQL</li>
 </ul>
 <br/>
 <h4>
-  🖥️ <a href="https://sr-tamim.vercel.app/projects" target="_blank">View some of my works</a>
+  🖥️ <a href="https://sr-tamim.vercel.app/works" target="_blank">View some of my works</a>
 </h4>
 <h4>
   🌐 <a href="https://sr-tamim.vercel.app" target="_blank">Visit my personal portfolio website</a>
@@ -80,25 +90,25 @@
     <a href="https://twitter.com/sr__tamim" target="_blank" title="Visit my twitter profile">
         <img
             src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/twitter.svg"
-            alt="sr__tamim" height="30" width="30" />
+            alt="SR Tamim Twitter profile" height="30" width="30" />
     </a>&nbsp;
     <a href="https://facebook.com/srtamim21" target="_blank" title="View my Facebook profile">
         <img
             src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/facebook.png"
-            alt="srtamim21" height="30" width="30" />
+            alt="SR Tamim Facebook profile" height="30" width="30" />
     </a>&nbsp;
     <a href="https://linkedin.com/in/srtamim" target="_blank" title="Connect with me in LinkedIn">
         <img
             src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/linkedin.png"
-            alt="srtamim" height="30" width="30" />
+            alt="SR Tamim Linkedin account" height="30" width="30" />
     </a>&nbsp;
-    <a href="https://m.me/srtamim21" target="_blank" title="Contact me through messenger">
+    <a href="https://join.skype.com/invite/WmgJghOSxrY7" target="_blank" title="Contact me in Skype">
         <img
-            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/messenger.svg"
-            alt="messenger icon" height="30" width="20" />
+            src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/skype.svg"
+            alt="SR Tamim Skype account" height="30" width="30" />
     </a>&nbsp;
   <a href="http://t.me/sr_tamim" target="_blank" title="Message me on Telegram">
-    <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/telegram.svg" alt="telegram" height="30" width="30"/>
+    <img src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/telegram.svg" alt="SR Tamim Telegram ID" height="30" width="30"/>
   </a>
 </p>
 
