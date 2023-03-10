@@ -3,7 +3,7 @@
 </p>
 
 <h1>This is Saifur Rahman Tamim</h1>
-<h3>Exploring the universe of C# (Blazor)</h3>
+<h3>Exploring the universe of C# > .NET > Blazor</h3>
 <br/>
 
 <h3>I am specialist in:</h3>
