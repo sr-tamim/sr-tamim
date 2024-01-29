@@ -26,6 +26,10 @@
     CSS
     <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
   </li>
+  <li>
+    Node.js (Express)
+    <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/nodejs.svg" alt="nodejs" width="20" height="20" />
+  </li>
 </ul>
 
 <br/>
@@ -58,10 +62,6 @@
     <img title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20" />
   </li>
   <li>
-    Node.js
-    <img title="NodeJS" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/nodejs.svg" alt="nodejs" width="20" height="20" />
-  </li>
-  <li>
     MongoDB
     <img title="MongoDB" src="https://raw.githubusercontent.com/sr-tamim/sr-tamim/main/files/mongodb.svg" alt="mongodb" width="20" height="20" />
   </li>
@@ -71,7 +71,8 @@
     (Manjaro, Fedora, Ubuntu, Fedora Server)
   </li>
   <li>Blazor</li>
-  <li>MySQL</li>
+  <li>ASP.NET</li>
+  <li>PostgreSQL</li>
 </ul>
 <br/>
 <h4>
