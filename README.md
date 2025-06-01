@@ -79,13 +79,9 @@ Hey there! I'm **Saifur Rahman Tamim**, a passionate full-stack developer from D
 ### 📊 GitHub Stats
 
 <p>
-  <img height="100"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-tamim&show_icons=true&locale=en&layout=compact"
-        alt="sr-tamim" />
-  &nbsp;
-  <img height="100"
+  <img height="200"
         src="https://github-readme-stats.vercel.app/api?username=sr-tamim&show_icons=true&locale=en" alt="sr-tamim" />
   &nbsp;
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-tamim&theme=default"
         alt="sr-tamim" />
 </p>
