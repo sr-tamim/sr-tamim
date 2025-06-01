@@ -46,7 +46,7 @@ Hey there! I'm **Saifur Rahman Tamim**, a passionate full-stack developer from D
 
 ### 🌟 Featured Projects
 
-* **[SaleBee CRM](https://sr-tamim.vercel.app/works)**: A comprehensive CRM solution developed at Nexzen Solution Ltd using C#, ASP.NET, and SQL Server.
+* **[SaleBee CRM](https://salebee.net)**: A SaaS marketing CRM solution developed at Nexzen Solution Ltd using C#, ASP.NET, jQuery and SQL Server.
 
 * **[Linux Server Setup](https://github.com/sr-tamim/devops-stuff/tree/main/Linux-server-setup)**: A bash script to automate the initial setup process of a Linux server
 
